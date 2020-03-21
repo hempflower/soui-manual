@@ -1,0 +1,22 @@
+{
+  "name": "soui-manual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hempflower/soui-manual.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hempflower/soui-manual/issues"
+  },
+  "homepage": "https://github.com/hempflower/soui-manual#readme",
+  "devDependencies": {
+    "vuepress": "^1.4.0"
+  }
+}

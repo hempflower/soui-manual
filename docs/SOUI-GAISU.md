@@ -28,7 +28,7 @@ SOUI 不是一个新项目，它是基于之前开发的 DuiEngine 界面库，�
 ## SOUI 模块结构 
 下图为 SOUI 模块截图： 
 
-![模块结构](images/0.jpg)
+![模块结构](./images/0.jpg)
 
 - soui 模块是整个项目的核心，除 utilities 模块外，其它模块都为 soui 模块服务。 
 - utilities 模块提供一些工具类，主要包含 pugixml，及一个 String 类。 
@@ -42,8 +42,8 @@ SOUI 不是一个新项目，它是基于之前开发的 DuiEngine 界面库，�
 
 ## 模块结构图及框架图 
 模块结构图：
- ![模块结构](images/1.jpg)
+ ![模块结构](./images/1.jpg)
 SOUI 框架图：
- ![模块结构](images/2.jpg)
+ ![模块结构](./images/2.jpg)
 
  

@@ -14,6 +14,10 @@ module.exports = {
         editLinks: true,
         editLinkText: '改进此页面？',
 
-        sidebar: 'auto'
+        sidebar: [
+            '/',
+            '/SOUI-GAISU',
+            '/SOUI-BUILD'
+        ],
     }
 }

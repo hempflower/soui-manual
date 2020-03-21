@@ -13,11 +13,14 @@ module.exports = {
         docsBranch: 'master',
         editLinks: true,
         editLinkText: '改进此页面？',
-
+        smoothScroll: true,
         sidebar: [
             '/',
             '/SOUI-GAISU',
-            '/SOUI-BUILD'
+            '/SOUI-BUILD',
         ],
+        nav: [
+            { text: 'SOUI论坛', link: 'http://www.soui.vip/' },
+        ]
     }
 }
